@@ -1,0 +1,67 @@
+body {
+    margin: 0px;
+}
+
+
+.cent {
+    text-align: center;
+    margin: 0px;
+    padding: 10px 15px 10px 15px;
+}
+
+.descript {
+    text-align: justify;
+    margin: 0px;
+    padding: 5px 10px 5px 30px;
+    border-left: 10px solid #0fd33c;
+    border-radius: 20px;
+}
+
+img {
+    border: 10px solid lightsteelblue;
+    width: 100%;
+    box-sizing: border-box;
+    border-top-right-radius: 20%;
+}
+
+ol {
+    padding-left: 48%;
+    margin: 0px;
+    font-size: 20px;
+    color: gold;
+}
+
+li:hover {
+    color: red;
+}
+
+.boxfather {
+    background: darkslategrey;
+    height: auto;
+    width: 100%;
+}
+
+.boxchild1 {
+    background: lightskyblue;
+    width: 100%;
+}
+
+.boxchild2 {
+    background: cadetblue;
+    width: 100%;
+}
+
+.boxchild3 {
+    background: aqua;
+    width: 100%;
+}
+
+.boxchild4 {
+    background: cadetblue;
+    width: 100%;
+}
+
+.boxchild5 {
+    background: dimgrey;
+    width: 100%;
+}
