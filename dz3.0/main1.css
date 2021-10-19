@@ -1,7 +1,9 @@
 .wrap {
     height: 700px;
     width: 1000px;
-    grid-column-gap: 20px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
 }
 
 .item1 {
