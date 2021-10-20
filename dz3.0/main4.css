@@ -1,0 +1,45 @@
+.wrap {
+    display: flex;
+    flex-direction: column;
+    height: 950px;
+    width: 800px;
+}
+
+.widgets {
+    background: cornflowerblue;
+    height: 300px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.item {
+    display: flex;
+    height: 250px;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.big {
+    background: blue;
+    height: 250px;
+    width: 250px;
+}
+
+.bigger {
+    background: blue;
+    height: 250px;
+    width: 250px;
+}
+
+.hugge {
+    background: blue;
+    height: 250px;
+    width: 250px;
+}
+
+.contact {
+    background: cornflowerblue;
+    height: 450px;
+    width: 100%;
+    margin-top: 20px;
+}
