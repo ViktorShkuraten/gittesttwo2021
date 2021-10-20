@@ -1,0 +1,29 @@
+.wrap {
+    background: #4f442f;
+    border: 10px solid black;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    height: 800px;
+    width: 1200px;
+}
+
+.a {
+    background: cadetblue;
+    height: 250px;
+    width: 100%;
+}
+
+.item {
+    background: #0fd33c;
+    display: flex;
+    height: 250px;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.solis {
+
+}
+
+.b
