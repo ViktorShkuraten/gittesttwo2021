@@ -1,0 +1,33 @@
+.wrap {
+    height: 700px;
+    width: 1000px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.item1 {
+    height: 200px;
+    width: 100%;
+    background: #4f442f;
+    margin-bottom: 5px;
+}
+
+.item2 {
+    display: flex;
+    height: 500px;
+    width: 100%;
+}
+
+.box1 {
+    height: 500px;
+    width: 800px;
+    background: cornflowerblue;
+    margin-right: 5px;
+}
+
+.box2 {
+    height: 500px;
+    width: 200px;
+    background: darkseagreen;
+}

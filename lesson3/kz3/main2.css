@@ -1,0 +1,82 @@
+.xxx {
+    border: 10px solid black;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    height: 800px;
+    width: 1200px;
+}
+
+.a {
+    background: cadetblue;
+    height: 400px;
+    width: 1180px;
+    margin: 10px 10px 10px 10px;
+}
+
+.item {
+    display: flex;
+    height: 570px;
+    width: 1190px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.soliss {
+    display: flex;
+    flex-wrap: wrap;
+    height: 570px;
+    width: 920px;
+}
+
+.b {
+    background: darkkhaki;
+    height: 280px;
+    width: 300px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+
+}
+
+.c {
+    background: darkgoldenrod;
+    height: 280px;
+    width: 300px;
+    margin-right: 10px;
+
+}
+
+.d {
+    background: chocolate;
+    height: 280px;
+    width: 300px;
+
+}
+
+.e {
+    background: darksalmon;
+    height: 280px;
+    width: 300px;
+}
+
+.f {
+    background: burlywood;
+    height: 280px;
+    width: 300px;
+    margin-left: 10px;
+}
+
+.g {
+    background: coral;
+    height: 280px;
+    width: 300px;
+    margin-left: 10px;
+}
+
+.h {
+    background: blue;
+    height: 570px;
+    width: 250px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
