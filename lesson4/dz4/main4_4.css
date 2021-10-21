@@ -1,0 +1,41 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.wrap {
+    display: flex;
+    flex-direction: column;
+    height: 950px;
+}
+
+.widgets {
+    height: 300px;
+    margin-bottom: 20px;
+}
+
+.item {
+    display: flex;
+    height: 250px;
+    justify-content: space-between;
+}
+
+.tribl {
+    background: blue;
+    height: 250px;
+    width: 250px;
+}
+
+.contact {
+    height: 450px;
+    margin-top: 20px;
+}
+
+.wid_800 {
+    width: 800px;
+}
+
+.col_dubl {
+    background: cornflowerblue;
+}

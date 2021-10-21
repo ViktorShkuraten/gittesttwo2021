@@ -1,0 +1,42 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.wrap {
+    height: 700px;
+    width: 1000px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.item_one {
+    height: 200px;
+    background: #4f442f;
+    margin-bottom: 5px;
+}
+
+.item_two {
+    display: flex;
+}
+
+.wid_1000 {
+    width: 1000px;
+}
+
+.box_one {
+    width: 800px;
+    background: cornflowerblue;
+    margin-right: 5px;
+}
+
+.box_two {
+    width: 200px;
+    background: darkseagreen;
+}
+
+.heig_500 {
+    height: 500px;
+}

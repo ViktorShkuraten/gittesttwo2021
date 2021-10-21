@@ -1,0 +1,55 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.wrap {
+    background: #0fd33c;
+    flex-direction: column;
+    height: 900px;
+}
+
+.header {
+    height: 200px;
+    background: #4f442f;
+}
+
+.nav {
+    background: blueviolet;
+}
+
+.item {
+    height: 500px;
+}
+
+.mein {
+    width: 900px;
+    background: cornflowerblue;
+}
+
+.aside {
+    width: 300px;
+    background: darkseagreen;
+}
+
+.footer {
+    background: chocolate;
+}
+
+.wid_1200 {
+    width: 1200px;
+}
+
+.heig_500 {
+    height: 500px;
+
+}
+
+.heig_150 {
+    height: 150px;
+}
+
+.flex {
+    display: flex;
+}

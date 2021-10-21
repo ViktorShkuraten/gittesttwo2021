@@ -1,0 +1,68 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.wrap {
+    box-sizing: border-box;
+    height: 1100px;
+}
+
+.header {
+    background: #4f442f;
+    margin-bottom: 20px;
+
+}
+
+.dast {
+    height: 800px;
+    display: flex;
+
+}
+
+.menu {
+    background: darkturquoise;
+    width: 250px;
+}
+
+.item {
+    width: 550px;
+}
+
+.boxen {
+    display: flex;
+    flex-direction: column;
+}
+
+.post {
+    background: cornflowerblue;
+    height: 420px;
+    width: 530px;
+    margin-left: 20px;
+}
+
+.a {
+    margin-bottom: 20px;
+}
+
+.b {
+    margin-bottom: 0;
+}
+
+.footer {
+    background: chocolate;
+    margin-top: 20px;
+}
+
+.heig_150 {
+    height: 150px;
+}
+
+.wid_800 {
+    width: 800px;
+}
+
+.heig_800 {
+    height: 800px;
+}
