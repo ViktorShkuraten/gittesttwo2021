@@ -1,0 +1,439 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.box_icon {
+    background: darkturquoise;
+    width: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 20px 0 20px 0;
+}
+
+.four_icon {
+    width: 200px;
+    height: 15px;
+    margin-right: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.name_icon {
+    background: darkslategray;
+    width: 35px;
+    height: 7px;
+    border-radius: 30px;
+}
+
+.box_menu {
+    background: darkgray;
+    width: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 0 20px 0;
+}
+
+.novig_box {
+    background: darkslategray;
+    width: 200px;
+    height: 100px;
+    border-radius: 20px;
+    margin-left: 50px;
+}
+
+.menu_icon {
+    width: 300px;
+    height: 20px;
+    margin-right: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.name_menu {
+    background: darkslategray;
+    width: 60px;
+    height: 10px;
+    border-radius: 30px;
+}
+
+.box_prezent {
+    background: darkturquoise;
+    width: 1000px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 20px 0 20px 0;
+}
+
+.box_prezent h3 {
+    display: block;
+    width: 600px;
+}
+
+.menu_product {
+    background: darkslategray;
+    width: 300px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+.box_alfa {
+    background: darkgray;
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0 20px 0;
+}
+
+.box_item {
+    background: darkgray;
+    width: 900px;
+    display: flex;
+    border: 5px solid darkturquoise;
+    border-radius: 50px;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.fourbox {
+    width: 800px;
+    height: 250px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.pocs {
+    width: 150px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.poc1 {
+    background: darkslategray;
+    width: 150px;
+    height: 130px;
+    border-radius: 10px;
+}
+
+.docs {
+    width: 150px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.doc1 {
+    background: darkslategray;
+    width: 150px;
+    height: 130px;
+    border-radius: 10px;
+}
+
+.rocs {
+    width: 150px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.roc1 {
+    background: darkslategray;
+    width: 150px;
+    height: 130px;
+    border-radius: 10px;
+}
+
+.cocs {
+    width: 150px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.coc1 {
+    background: darkslategray;
+    width: 150px;
+    height: 130px;
+    border-radius: 10px;
+}
+
+
+.box_beta {
+    background: darkgray;
+    width: 1000px;
+}
+
+.box_patem {
+    background: darkslategray;
+    width: 100%;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.threebox {
+    width: 800px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.bubus {
+    width: 200px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.bub1 {
+    background: darkgray;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-top: 40px;
+}
+
+.rufus {
+    width: 200px;
+    height: 300px;
+    border: 5px solid darkturquoise;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ruf1 {
+    background: darkgray;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-top: 40px;
+}
+
+.kusus {
+    width: 200px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.kus1 {
+    background: darkgray;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-top: 40px;
+}
+
+.box_mobil {
+    background: darkgray;
+    width: 1000px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.six_box {
+    background: darkgray;
+    width: 1000px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.telefbox {
+    background: darkgray;
+    width: 280px;
+    height: 320px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 10px 10px 0 10px;
+    border: 5px solid darkturquoise;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+.monitor_bloc {
+    background: darkslategray;
+    width: 280px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.klavs_monitor {
+    background: darkgray;
+    width: 280px;
+    height: 20px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.one_monit {
+    background: darkslategray;
+    width: 25px;
+    height: 5px;
+    margin-right: 215px;
+}
+
+.two_monit {
+    background: darkslategray;
+    width: 15px;
+    height: 5px;
+    margin-right: 10px;
+}
+
+.three_monit {
+    background: darkslategray;
+    width: 15px;
+    height: 5px;
+}
+
+.klavs_bloc {
+    background: darkgray;
+    width: 280px;
+    height: 20px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.one_klav {
+    background: darkslategray;
+    width: 25px;
+    height: 10px;
+    margin-right: 210px;
+    border-radius: 3px;
+}
+
+.two_klav {
+    background: darkslategray;
+    width: 10px;
+    height: 10px;
+    margin-right: 10px;
+    border-radius: 50%;
+}
+
+.three_klav {
+    background: darkslategray;
+    width: 10px;
+    height: 10px;
+    margin-right: 10px;
+    border-radius: 50%;
+}
+
+.four_klav {
+    background: darkslategray;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+
+.instruct_box {
+    width: 970px;
+    display: flex;
+    align-items: center;
+    margin: 40px 0 60px 0;
+
+}
+
+.left_col {
+    background: darkslategray;
+    width: 400px;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+}
+
+.right_col {
+    background: darkturquoise;
+    width: 400px;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+}
+
+
+.icon_left {
+    background: darkturquoise;
+    width: 200px;
+    height: 70px;
+    border-radius: 50px;
+    margin-top: 40px;
+}
+
+.icon_right {
+    background: darkslategray;
+    width: 200px;
+    height: 70px;
+    border-radius: 50px;
+    margin-top: 40px;
+}
+
+.bottom_box {
+    background: darkslategray;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.threeicon_box {
+    width: 200px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.box_left {
+    background: darkgray;
+    width: 40px;
+    height: 40px;
+    border-radius: 7px;
+}
+
+.box_centr {
+    background: darkgray;
+    width: 40px;
+    height: 40px;
+    border-radius: 7px;
+}
+
+.box_right {
+    background: darkgray;
+    width: 40px;
+    height: 40px;
+    border-radius: 7px;
+}
+
+.box_finish {
+    background: darkgray;
+    width: 400px;
+    height: 5px;
+    margin-top: 25px;
+    border-radius: 5px;
+}
