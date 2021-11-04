@@ -53,6 +53,8 @@
         margin: 0 15px 0 15px;
         flex-grow: 1;
         padding-bottom: 20px;
+        position: relative;
+        bottom: -140px;
     }
 
     .magical p {
@@ -67,6 +69,8 @@
         flex-grow: 1;
         margin: 0 15px 0 15px;
         padding-bottom: 20px;
+        position: relative;
+        bottom: -140px;
     }
 
     .quality p {
@@ -80,6 +84,8 @@
         height: 276px;
         margin: 0 15px 0 15px;
         padding-bottom: 15px;
+        position: relative;
+        bottom: -140px;
     }
 
     .cheap p {
