@@ -1,0 +1,29 @@
+@media screen and (max-width: 414px) {
+    .header_top {
+        width: 414px;
+        height: 34px;
+        padding-left: 15px;
+        padding-right: 200px;
+
+    }
+
+    .box_top_two {
+        display: none;
+    }
+
+    .box_top_three {
+        display: none;
+    }
+
+    .box_top_esche {
+        display: flex;
+        padding-right: 0;
+    }
+
+    .header_top_left {
+        display: flex;
+        justify-content: start;
+        padding-right: 0;
+        width: auto;
+    }
+}
